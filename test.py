@@ -6,5 +6,5 @@ st.title("Interactive Portfolio Optimization Dashboard")
 st.markdown("""
 This application provides an interactive way to optimize a stock portfolio using the Markowitz Model. Explore different portfolio configurations and view detailed financial metrics.
 """)
-print('hello world')
+print('hello worldd')
 # Kết thúc đoạn mã 
