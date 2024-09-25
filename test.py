@@ -1,9 +1,10 @@
 import streamlit as st
-import pandas as pd
-import numpy as np
-import yfinance as yf
-import plotly.graph_objs as go
-import matplotlib.pyplot as plt
-from scipy.optimize import minimize
 
+# Thiết lập cấu hình cho Streamlit
+st.set_page_config(page_title="Interactive Portfolio Optimization", layout="wide")
+st.title("Interactive Portfolio Optimization Dashboard")
+st.markdown("""
+This application provides an interactive way to optimize a stock portfolio using the Markowitz Model. Explore different portfolio configurations and view detailed financial metrics.
+""")
 print('hello world')
+# Kết thúc đoạn mã 
